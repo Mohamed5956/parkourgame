@@ -1,2 +1,2 @@
 # parkourgame
-# using java script and canvas 
+# using JavaScript and canvas 
